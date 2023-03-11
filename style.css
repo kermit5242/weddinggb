@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    color: #333;
+    font-family: 'Rubik Gemstones', cursive;
+    font-family: 'Rubik', sans-serif;
+}
+
+.hero_header {
+    font-family: 'Rubik Gemstones', cursive;
+    color: #cbeb03;
+}
