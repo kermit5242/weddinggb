@@ -56,7 +56,7 @@
                 <div class="otw_portfolio_manager-portfolio-full only-media otw_portfolio_manager-hover-effect-6">
 					<!-- Portfolio Media -->
 					<figure class="otw_portfolio_manager-portfolio-media otw_portfolio_manager-format-image">
-						<a rel="gallery" href="<?php echo $img_full[0]; ?>" class="otw_portfolio_manager-fancybox-img"><img src="<?php echo $img_thumb[0]; ?>" width="500" height="380" alt="" data-item="media"></a>
+						<a rel="<?php echo $cssclass; ?>" href="<?php echo $img_full[0]; ?>" class="otw_portfolio_manager-fancybox-img"><img src="<?php echo $img_thumb[0]; ?>" width="500" height="380" alt="" data-item="media"></a>
 							<!-- Portfolio Overlay -->
 							<div class="otw_portfolio_manager-portfolio-overlay">
 								<div class="otw_portfolio_manager-valign-middle">
